@@ -1,4 +1,4 @@
-SRI is a multithreaded C++ program capable of making logical inferences based on groups of facts and rules. It was written by Shayne Hayes, Son Huynh, Richard Harker, and Nicole Maines for CMPS109 (Advanced Programming). Here is a list of commands and what they do:
+Simple Rule-Based Inference Engine (SRI) is a multithreaded C++ program capable of making logical inferences based on groups of facts and rules. It was written by Shayne Hayes, Son Huynh, Richard Harker, and Nicole Maines for CMPS109 (Advanced Programming). Here is a list of commands and what they do:
   
 + FACT Name(name, name, ...) -- Defines a relation between a group of names.  
 Ex. FACT Father(John, Mary)
